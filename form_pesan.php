@@ -125,7 +125,7 @@
         textarea {
             height: 90px;
             resize: vertical;
-        }
+        } 
 
         .btn-form {
             margin-top: 18px;
